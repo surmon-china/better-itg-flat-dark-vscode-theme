@@ -1,6 +1,6 @@
 {
     "name": "theme-better-itg-flat-dark",
-    "displayName": "Better itg flat dark",
+    "displayName": "Better itg flat dark Theme",
     "description": "Beautiful theme. Better itg.flat.dark for vscode.",
     "publisher": "surmon",
     "version": "0.1.0",
@@ -13,9 +13,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Better itg flat dark",
+                "label": "Better itg flat dark gold",
                 "uiTheme": "vs-dark",
-                "path": "./themes/better.itg.flat.dark.tmTheme"
+                "path": "./themes/better.itg.flat.dark.gold.json"
+            },
+            {
+                "label": "Better itg flat dark blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/better.itg.flat.dark.blue.json"
             }
         ]
     },
