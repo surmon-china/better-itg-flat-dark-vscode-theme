@@ -5,7 +5,7 @@
 
 - Optimize theme colors
 - Supplement README.md
-- Supplement screenhots
+- Supplement screenshots
 - Supplement logo
 
 ###  v0.1.0 | 2018-09-29
