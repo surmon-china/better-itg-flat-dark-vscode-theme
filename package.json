@@ -3,8 +3,8 @@
 	"displayName": "Better itg flat dark theme",
 	"description": "Better itg.flat.dark theme for vscode. Base on Sublime Text",
 	"publisher": "surmon",
-	"version": "0.2.2",
-	"logo": "logo.png",
+	"version": "0.2.3",
+	"logo": "https://raw.githubusercontent.com/surmon-china/better-itg-flat-dark-vscode-theme/master/logo.png",
 	"galleryBanner": {
 		"color": "#222222",
 		"theme": "dark"
