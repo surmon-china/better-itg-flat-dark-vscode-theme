@@ -1,7 +1,7 @@
 
 ## vscode theme "better-itg-flat-dark"
 
-Beautiful theme. Better itg.flat.dark for vscode.
+Better itg.flat.dark theme for vscode. Base on Sublime Text.
 
 ### better.itg.flat.dark.blue
 
