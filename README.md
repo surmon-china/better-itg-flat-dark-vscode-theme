@@ -5,11 +5,11 @@ Better itg.flat.dark theme for vscode. Base on Sublime Text.
 
 ### better.itg.flat.dark.blue
 
-![](https://raw.githubusercontent.com/surmon-china/better-itg-flat-dark-vscode-theme/master/screenshot/blue.jpg)
+![](https://raw.githubusercontent.com/surmon-china/better-itg-flat-dark-vscode-theme/master/screenshot/blue.png)
 
 ### better.itg.flat.dark.gold
 
-![](https://raw.githubusercontent.com/surmon-china/better-itg-flat-dark-vscode-theme/master/screenshot/gold.jpg)
+![](https://raw.githubusercontent.com/surmon-china/better-itg-flat-dark-vscode-theme/master/screenshot/gold.png)
 
 ## For more information
 
