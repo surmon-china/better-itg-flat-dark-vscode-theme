@@ -1,51 +1,50 @@
 {
-    "name": "theme-better-itg-flat-dark",
-	"displayName": "Better itg flat dark theme",
-	"description": "Better itg.flat.dark theme for vscode. Base on Sublime Text",
-	"publisher": "surmon",
-	"version": "0.2.3",
-	"logo": "https://raw.githubusercontent.com/surmon-china/better-itg-flat-dark-vscode-theme/master/logo.png",
-	"galleryBanner": {
-		"color": "#222222",
-		"theme": "dark"
-	},
-	"engines": {
-		"vscode": "^1.12.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "itg flat dark blue",
-				"uiTheme": "vs-dark",
-				"path": "./themes/better.itg.flat.dark.blue.json"
-			},
-			{
-				"label": "itg flat dark gold",
-				"uiTheme": "vs-dark",
-				"path": "./themes/better.itg.flat.dark.gold.json"
-			}
-		]
-	},
-	"devDependencies": {
-		"vscode": "^1.0.0"
-	},
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/surmon-china/better-itg-flat-dark-vscode-theme"
-    },
-	"homepage": "https://github.com/surmon-china/better-itg-flat-dark-vscode-theme",
-	"bugs": {
-		"url": "https://github.com/surmon-china/better-itg-flat-dark-vscode-theme/issues"
-	},
-	"keywords": [
-		"itg",
-		"itg.dark",
-		"itg.flat",
-		"itg flat dark",
-		"itg dark sublime"
-	],
-	"license": "MIT"
+  "name": "theme-better-itg-flat-dark",
+  "displayName": "Better itg flat dark theme",
+  "description": "Better itg.flat.dark theme for vscode. Base on Sublime Text",
+  "publisher": "surmon",
+  "version": "0.2.3",
+  "license": "MIT",
+  "logo": "https://raw.githubusercontent.com/surmon-china/better-itg-flat-dark-vscode-theme/master/logo.png",
+  "galleryBanner": {
+    "color": "#222222",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [{
+        "label": "itg flat dark blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/better.itg.flat.dark.blue.json"
+      },
+      {
+        "label": "itg flat dark gold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/better.itg.flat.dark.gold.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vscode": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/surmon-china/better-itg-flat-dark-vscode-theme"
+  },
+  "homepage": "https://github.com/surmon-china/better-itg-flat-dark-vscode-theme",
+  "bugs": {
+    "url": "https://github.com/surmon-china/better-itg-flat-dark-vscode-theme/issues"
+  },
+  "keywords": [
+    "itg",
+    "itg.dark",
+    "itg.flat",
+    "itg flat dark",
+    "itg dark sublime"
+  ]
 }
